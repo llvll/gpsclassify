@@ -9,6 +9,7 @@ The processing pipeline applies machine learning algorithms for labeling the spa
 
 The following frameworks and technologies are involved:
 
+* Python
 * GeoDjango
 * OpenLayers
 * PostGIS
