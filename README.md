@@ -19,7 +19,7 @@ The following frameworks and technologies are involved:
 * GeoPandas
 * Shapely
 
-This module is partially based on another GitHub project for motion pattern recognition using KNN-DTW and sequence labeling: https://github.com/llvll/motionml
+The approach to GPS data labeling is partially based on another GitHub project for motion pattern recognition using KNN-DTW and sequence labeling: https://github.com/llvll/motionml
 
 IPython Notebook (.ipynb file) is included for step-by-step execution of the demo application with extra comments.
 
