@@ -1,13 +1,13 @@
 # GPSclassify
 ### Classification and visualization of OpenStreetMap GPS traces using GeoDjango, PostGIS and TinyLearn
 
-[Under development]
+*[Under development]*
 
 Web application for labeling, visualizing and searching GPS traces from the bulk GPX dataset of OpenStreetMap: http://planet.openstreetmap.org/gps 
 
 The processing pipeline applies machine learning algorithms for labeling the spatial data and further indexing into ElasticSearch.
 
-The following Python frameworks are involved:
+The following frameworks and technologies are involved:
 
 * GeoDjango
 * OpenLayers
